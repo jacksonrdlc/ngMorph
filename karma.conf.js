@@ -18,7 +18,7 @@ module.exports = function(config) {
       'bower_components/angular/angular.js',
       'bower_components/angular-mocks/angular-mocks.js',
       'node_modules/expect.js/index.js',
-      'specs/jasmine.conf.js',
+      'spec/jasmine.conf.js',
 
       'src/transitions/transitions.js',
       'src/transitions/modal.js',

@@ -17,11 +17,11 @@
         'transition': 'opacity 0.3s 0.3s ease',
         '-webkit-transition': 'opacity 0.3s 0.3s ease',
         'height': '0',
-        'opacity': '0',
+        'opacity': '0'
       },
       morphable: {
         'z-index': '1000',
-        'outline': 'none',
+        'outline': 'none'
       },
       fade: {
         'display': 'none',
