@@ -11,9 +11,9 @@ Available **[here](http://jimobrien.github.io/ngMorph/)**. Demo source available
 ## Getting Started ##
   1. Install with NPM:
  
-    ```sh
+    ``
       npm i angular-morph
-    ```
+    ``
 
   2. Include the module in your project: 
   
