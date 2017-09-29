@@ -9,10 +9,10 @@ This module is an attempt at packaging transitions/animations into directives th
 Available **[here](http://jimobrien.github.io/ngMorph/)**. Demo source available **[here](https://github.com/jimobrien/ngMorph/tree/gh-pages)**.
 
 ## Getting Started ##
-  1. Install with bower:
+  1. Install with NPM:
  
     ```sh
-      bower install --save angular-morph
+      npm i angular-morph
     ```
 
   2. Include the module in your project: 
